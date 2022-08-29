@@ -1,0 +1,18 @@
+{
+  "name": "create-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "create-node-typescript-app": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Phillip Rosa",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
